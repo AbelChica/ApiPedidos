@@ -1,0 +1,7 @@
+{
+  "ApiPedidos.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Abel\\Downloads\\ApiPedidos\\ApiPedidos.Application",
+  "ApiPedidos.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Abel\\Downloads\\ApiPedidos\\ApiPedidos.Domain",
+  "ApiPedidos.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Abel\\Downloads\\ApiPedidos\\ApiPedidos.Infra.Data",
+  "ApiPedidos.Infra.EventBus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Abel\\Downloads\\ApiPedidos\\ApiPedidos.Infra.EventBus",
+  "ApiPedidos.Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Abel\\Downloads\\ApiPedidos\\ApiPedidos.Services"
+}
